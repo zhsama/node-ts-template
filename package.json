@@ -1,0 +1,19 @@
+{
+  "name": "node-ts-template",
+  "version": "0.0.1",
+  "description": "node-ts-template",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "author": "zhcf1ess",
+  "license": "MIT",
+  "dependencies": {
+    "@zhsama/eslint-config": "^1.0.3",
+    "eslint-plugin-markdown": "^5.0.0"
+  },
+  "devDependencies": {
+    "husky": "^9.0.11"
+  }
+}
